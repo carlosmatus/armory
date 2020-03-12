@@ -1,0 +1,11 @@
+.DS_Store
+target/
+/build
+/bin
+.settings
+.project
+.classpath
+# IntelliJ IDEA files
+.idea
+*.iml
+*.log
